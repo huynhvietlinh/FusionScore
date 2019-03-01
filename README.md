@@ -1,2 +1,2 @@
 We moved the project to here
-https://github.com/huynhvietlinh/HiCDataModel
+https://github.com/HormozdiariLab/TAD-fusion-score
